@@ -1,10 +1,10 @@
 <!-- Animated profile header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:155e75,100:0ea5a4&height=210&section=header&text=Rajyavardhan%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20WordPress%20%7C%20Shopify&descAlignY=60&descSize=17" width="100%" alt="Rajyavardhan Singh — Web Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:312e81,100:7c3aed&height=210&section=header&text=Rajyavardhan%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20WordPress%20%7C%20Shopify&descAlignY=60&descSize=17" width="100%" alt="Rajyavardhan Singh — Web Developer" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=22D3C5&center=true&vCenter=true&width=650&lines=Building+responsive+web+experiences;Working+with+WordPress+%26+Shopify;Learning+JavaScript+one+step+at+a+time" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&lines=Building+responsive+web+experiences;Working+with+WordPress+%26+Shopify;Learning+JavaScript+one+step+at+a+time" alt="Typing animation" />
 </a>
 
 <p>
@@ -64,10 +64,10 @@ I enjoy turning ideas and designs into responsive websites, improving existing l
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=rajyavardhan-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3c5&icon_color=22d3c5&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajyavardhan-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3c5&text_color=c9d1d9" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=rajyavardhan-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=8b5cf6&text_color=e5e7eb&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajyavardhan-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e5e7eb" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com/?user=rajyavardhan-dev&hide_border=true&background=0D1117&ring=22D3C5&fire=22D3C5&currStreakLabel=22D3C5&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=rajyavardhan-dev&hide_border=true&background=09090f&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=D1D5DB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub streak" />
 
 </div>
 
@@ -77,6 +77,6 @@ I enjoy turning ideas and designs into responsive websites, improving existing l
 
 **Thanks for stopping by!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5a4,50:155e75,100:101827&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:09090f&height=100&section=footer" width="100%" alt="" />
 
 </div>
