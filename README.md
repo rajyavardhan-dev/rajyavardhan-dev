@@ -1,103 +1,129 @@
-<!-- HERO -->
+<!-- PROFILE HERO -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,45:312e81,100:7c3aed&height=230&section=header&text=Rajyavardhan%20Singh&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=WEB%20DEVELOPER%20%E2%80%A2%20WORDPRESS%20%E2%80%A2%20SHOPIFY&descAlignY=57&descSize=15&animation=fadeIn" width="100%" alt="Rajyavardhan Singh — Web Developer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09090f,35:312e81,70:5b21b6,100:09090f&height=260&section=header&text=RAJYAVARDHAN&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=WEB%20DEVELOPER%20%2F%2F%20CREATIVE%20BUILDER&descAlignY=62&descSize=16&animation=twinkling" width="100%" alt="Rajyavardhan — Web Developer" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=850&color=C4B5FD&center=true&vCenter=true&width=760&height=75&lines=const+developer+%3D+%22Rajyavardhan%22%3B;I+build+websites+that+work+and+feel+good.;WordPress+%7C+Shopify+%7C+JavaScript;Always+building.+Always+learning." alt="Animated developer introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=700&color=C4B5FD&center=true&vCenter=true&width=760&height=55&lines=%3Ccode%3E+Ideas+into+interfaces.%3C%2Fcode%3E;Design.+Develop.+Refine.;Building+for+the+web%2C+one+project+at+a+time." alt="Animated developer tagline" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rajyavardhan-dev&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/rajyavardhan-singh-240a4a22a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/rajyavardhan-dev"><img src="https://img.shields.io/badge/GitHub-Follow-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/vardhan_r_a_j/"><img src="https://img.shields.io/badge/Instagram-Profile-6d28d9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/rajyavardhan-singh-240a4a22a/"><img src="https://img.shields.io/badge/LINKEDIN-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/rajyavardhan-dev"><img src="https://img.shields.io/badge/GITHUB-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/vardhan_r_a_j/"><img src="https://img.shields.io/badge/INSTAGRAM-5b21b6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 </div>
 
 ---
 
-## About Me
+## 01 / A little about me
+
+<div align="center">
+
+### I like making the web look good — and work even better.
+
+</div>
+
+I'm Rajyavardhan, a web developer from India. I enjoy taking an idea from a rough concept to a working website: shaping the layout, building responsive interfaces, and paying attention to the small details that make a site feel complete.
+
+My current focus is growing my front-end skills and getting stronger with JavaScript. I also work with website platforms and eCommerce tools when a project calls for them.
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-### Hey, I'm Rajyavardhan 👋
+**CURRENTLY BUILDING**
 
-I'm a web developer from India who enjoys building clean, responsive websites and online stores.
-
-My work is mainly around **WordPress and Shopify** — setting up websites, customizing themes, creating page layouts, and making improvements based on what a project needs.
-
-I'm also putting consistent time into **JavaScript**. My goal is to grow from web development into full-stack development, one concept and one project at a time.
+- Responsive websites
+- Business and eCommerce experiences
+- Custom layouts and interface improvements
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
-### Quick Snapshot
+**CURRENTLY EXPLORING**
 
-- 📍 Based in India
-- 💻 Web Developer
-- 🛍️ WordPress & Shopify
-- 📚 Learning JavaScript
-- 🎯 Growing towards full-stack
-- 🤝 Open to collaborations
+- JavaScript fundamentals
+- Better front-end workflows
+- Full-stack development
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-**My approach**
+## 02 / Selected work
 
-Build → Improve → Learn → Repeat
+A few websites I've worked on across different types of businesses.
 
-</div>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Skills & Tools
+### 01 — OPTISCH
 
-### Languages & Front-end
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
-</p>
+**Eyewear / Brand Website**
 
-### CMS, eCommerce & Customization
-<p>
-  <img src="https://img.shields.io/badge/WordPress-7c3aed?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Shopify-6d28d9?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Elementor-5b21b6?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
-  <img src="https://img.shields.io/badge/WooCommerce-4c1d95?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-  <img src="https://img.shields.io/badge/Liquid-8b5cf6?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
-</p>
+Website work for an eyewear brand, with a focus on presenting products and creating a clean browsing experience.
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
-</p>
+</td>
+<td width="33%" valign="top">
+
+### 02 — AYURNIVAS
+
+**Wellness / eCommerce**
+
+An online store for Ayurvedic products and wellness consultations, bringing product discovery and consultation information together.
+
+[Visit Ayurnivas ↗](https://ayurnivas.com)
+
+</td>
+<td width="33%" valign="top">
+
+### 03 — BRANBOOS
+
+**Digital Agency Website**
+
+Website for a digital marketing agency focused on presenting its services and helping businesses grow.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What I Work On
+## 03 / The toolkit
 
-| Area | What I do |
-| --- | --- |
-| **WordPress** | Business websites, Elementor layouts, WooCommerce stores |
-| **Shopify** | Store setup, theme customization, Liquid edits |
-| **Front-end** | HTML, CSS, JavaScript, responsive layouts |
-| **Website improvements** | UI updates, content sections, layout fixes |
+<div align="center">
 
-## Currently Learning
+**CORE WEB**
 
-- [x] HTML and CSS fundamentals
-- [x] JavaScript basics: variables, functions, arrays, and objects
-- [ ] Stronger JavaScript problem-solving
-- [ ] Modern front-end development
-- [ ] Back-end development and full-stack projects
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript" />
+
+**PLATFORMS & BUILDERS**
+
+<img src="https://img.shields.io/badge/WordPress-Platforms-312e81?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/Shopify-Commerce-5b21b6?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+<img src="https://img.shields.io/badge/Elementor-Builder-6d28d9?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+<img src="https://img.shields.io/badge/Liquid-Templating-7c3aed?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
+
+**DAILY TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code" />
+
+</div>
+
+---
+
+## 04 / What I'm learning
+
+| Topic | Focus |
+|:--|:--|
+| **JavaScript** | Core concepts, problem-solving, writing cleaner code |
+| **Front-end** | Building responsive and interactive interfaces |
+| **Full-stack** | Working towards understanding both front-end and back-end |
+
+---
 
 ## GitHub Activity
 
