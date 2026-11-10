@@ -1,47 +1,86 @@
-<!-- Animated profile header -->
+<!-- HERO -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:312e81,100:7c3aed&height=210&section=header&text=Rajyavardhan%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20WordPress%20%7C%20Shopify&descAlignY=60&descSize=17" width="100%" alt="Rajyavardhan Singh — Web Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,45:312e81,100:7c3aed&height=230&section=header&text=Rajyavardhan%20Singh&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=WEB%20DEVELOPER%20%E2%80%A2%20WORDPRESS%20%E2%80%A2%20SHOPIFY&descAlignY=57&descSize=15&animation=fadeIn" width="100%" alt="Rajyavardhan Singh — Web Developer" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&lines=Building+responsive+web+experiences;Working+with+WordPress+%26+Shopify;Learning+JavaScript+one+step+at+a+time" alt="Typing animation" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=850&color=C4B5FD&center=true&vCenter=true&width=760&height=75&lines=const+developer+%3D+%22Rajyavardhan%22%3B;I+build+websites+that+work+and+feel+good.;WordPress+%7C+Shopify+%7C+JavaScript;Always+building.+Always+learning." alt="Animated developer introduction" />
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/rajyavardhan-singh-240a4a22a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/rajyavardhan-dev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/vardhan_r_a_j/"><img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rajyavardhan-dev&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/rajyavardhan-singh-240a4a22a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/rajyavardhan-dev"><img src="https://img.shields.io/badge/GitHub-Follow-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/vardhan_r_a_j/"><img src="https://img.shields.io/badge/Instagram-Profile-6d28d9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-Hey, I'm Rajyavardhan — a web developer from India. I build and customize websites for businesses and online stores, mainly using **WordPress and Shopify**.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I enjoy turning ideas and designs into responsive websites, improving existing layouts, and learning how things work under the hood. Right now, I'm strengthening my JavaScript fundamentals and working towards becoming a full-stack developer.
+### Hey, I'm Rajyavardhan 👋
 
-- 🔭 Working on business websites and eCommerce projects
-- 🌱 Learning JavaScript and full-stack development fundamentals
-- 🛠️ Interested in responsive design, theme customization, and clean UI
-- 🤝 Open to freelance work and collaboration
+I'm a web developer from India who enjoys building clean, responsive websites and online stores.
 
-## Tech & Tools
+My work is mainly around **WordPress and Shopify** — setting up websites, customizing themes, creating page layouts, and making improvements based on what a project needs.
+
+I'm also putting consistent time into **JavaScript**. My goal is to grow from web development into full-stack development, one concept and one project at a time.
+
+</td>
+<td width="40%" valign="top">
+
+### Quick Snapshot
+
+- 📍 Based in India
+- 💻 Web Developer
+- 🛍️ WordPress & Shopify
+- 📚 Learning JavaScript
+- 🎯 Growing towards full-stack
+- 🤝 Open to collaborations
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,github,git,vscode" alt="HTML, CSS, JavaScript, WordPress, GitHub, Git and VS Code" />
+**My approach**
 
-<br/>
-
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-<img src="https://img.shields.io/badge/Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
+Build → Improve → Learn → Repeat
 
 </div>
+
+## Skills & Tools
+
+### Languages & Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
+</p>
+
+### CMS, eCommerce & Customization
+<p>
+  <img src="https://img.shields.io/badge/WordPress-7c3aed?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Shopify-6d28d9?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Elementor-5b21b6?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/WooCommerce-4c1d95?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/Liquid-8b5cf6?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
+</p>
+
+---
 
 ## What I Work On
 
