@@ -64,10 +64,10 @@ I enjoy turning ideas and designs into responsive websites, improving existing l
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajyavardhan-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3c5&icon_color=22d3c5&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajyavardhan-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3c5&text_color=c9d1d9" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=rajyavardhan-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3c5&icon_color=22d3c5&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajyavardhan-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3c5&text_color=c9d1d9" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=rajyavardhan-dev&hide_border=true&background=0D1117&ring=22D3C5&fire=22D3C5&currStreakLabel=22D3C5&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=rajyavardhan-dev&hide_border=true&background=0D1117&ring=22D3C5&fire=22D3C5&currStreakLabel=22D3C5&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
 
 </div>
 
