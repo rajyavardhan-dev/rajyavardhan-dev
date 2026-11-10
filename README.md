@@ -52,47 +52,7 @@ My current focus is growing my front-end skills and getting stronger with JavaSc
 
 ---
 
-## 02 / Selected work
-
-A few websites I've worked on across different types of businesses.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 01 — OPTISCH
-
-**Eyewear / Brand Website**
-
-Website work for an eyewear brand, with a focus on presenting products and creating a clean browsing experience.
-
-</td>
-<td width="33%" valign="top">
-
-### 02 — AYURNIVAS
-
-**Wellness / eCommerce**
-
-An online store for Ayurvedic products and wellness consultations, bringing product discovery and consultation information together.
-
-[Visit Ayurnivas ↗](https://ayurnivas.com)
-
-</td>
-<td width="33%" valign="top">
-
-### 03 — BRANBOOS
-
-**Digital Agency Website**
-
-Website for a digital marketing agency focused on presenting its services and helping businesses grow.
-
-</td>
-</tr>
-</table>
-
----
-
-## 03 / The toolkit
+## 02 / The toolkit
 
 <div align="center">
 
@@ -115,7 +75,7 @@ Website for a digital marketing agency focused on presenting its services and he
 
 ---
 
-## 04 / What I'm learning
+## 03 / What I'm learning
 
 | Topic | Focus |
 |:--|:--|
