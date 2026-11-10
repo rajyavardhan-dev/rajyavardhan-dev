@@ -75,7 +75,25 @@ My current focus is growing my front-end skills and getting stronger with JavaSc
 
 ---
 
-## 03 / What I'm learning
+## 03 / Featured project
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### GutGlow — Product Showcase Website
+
+A product-focused website built around GutGlow's visual identity, landing-page presentation, and product storytelling.
+
+<a href="https://gutglow.co.in/"><img src="https://img.shields.io/badge/VISIT%20WEBSITE-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit GutGlow website" /></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / What I'm learning
 
 | Topic | Focus |
 |:--|:--|
