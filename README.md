@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:080611,25:1b1035,55:5b21b6,80:312e81,100:080611&text=RAJYAVARDHAN&fontColor=ffffff&fontSize=58&fontAlignY=42&desc=WEB%20DEVELOPER%20%E2%80%A2%20DIGITAL%20BUILDER&descSize=16&descAlignY=63&animation=twinkling" alt="Rajyavardhan — Web Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=C4B5FD&center=true&vCenter=true&width=720&height=42&lines=I+turn+ideas+into+web+experiences.;Building+responsive+websites+and+stores.;Learning+JavaScript.+Building+every+day.;Design+%2B+Code+%2B+Problem+Solving." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=C4B5FD&center=true&vCenter=true&width=720&height=42&lines=I+turn+ideas+into+web+experiences.;Building+responsive+websites+and+stores.;Learning+JavaScript+and+Python.;Design+%2B+Code+%2B+Problem+Solving." alt="Animated introduction" />
 
 <p>
 <a href="https://github.com/rajyavardhan-dev"><img src="https://img.shields.io/badge/GitHub-0b0716?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="GitHub" /></a>
@@ -29,6 +29,7 @@ I’ve worked on business websites, eCommerce stores, and product-focused web ex
 
 - 💻 Building responsive websites and storefronts.
 - 🛠️ Working with HTML, CSS, JavaScript, WordPress, and Shopify.
+- 🐍 Learning Python and strengthening programming fundamentals.
 - 🧩 Experience with Elementor, WooCommerce, and Shopify Liquid.
 - 🌱 Currently strengthening JavaScript fundamentals and moving towards modern frontend development.
 - 🎯 Interested in frontend engineering and building useful web products.
@@ -77,22 +78,71 @@ An online store for home and everyday essentials, with product collections and a
 </td>
 <td width="50%" valign="top">
 
-<h3>🧠 What I’m building next</h3>
+<h3>⚡ More projects in the works</h3>
 
-**Frontend projects · JavaScript**
+**Application development · JavaScript / Python**
 
-Focused on building practical projects, improving problem-solving, and learning the tools used to create modern web applications.
+Building practical applications to strengthen my frontend, backend, and problem-solving skills.
 
-<img src="https://img.shields.io/badge/In%20progress-8b5cf6?style=flat-square" alt="In progress" />
+<img src="https://img.shields.io/badge/Planned-8b5cf6?style=flat-square" alt="Planned" />
 </td>
 </tr>
 </table>
 
-## 03 — Tech I work with
+## 03 — Project lab
+
+Three larger applications on my portfolio roadmap. These are planned projects, not completed releases yet.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3>📊 Business Management Dashboard</h3>
+
+A business admin panel with:
+
+- Login and dashboard
+- Customer records
+- Sales tracking
+- Search and filters
+- Persistent data storage
+
+<img src="https://img.shields.io/badge/Planned-8b5cf6?style=flat-square" alt="Planned project" />
+</td>
+<td width="33%" valign="top">
+
+<h3>🛒 Full E-commerce Store</h3>
+
+A complete shopping experience with:
+
+- Product catalogue and filters
+- Cart and checkout flow
+- Wishlist
+- Admin product management
+
+<img src="https://img.shields.io/badge/Planned-8b5cf6?style=flat-square" alt="Planned project" />
+</td>
+<td width="33%" valign="top">
+
+<h3>📋 Project Management App</h3>
+
+A workspace for teams to organize work with:
+
+- User accounts
+- Projects and tasks
+- Kanban board
+- Deadlines and progress tracking
+
+<img src="https://img.shields.io/badge/Planned-8b5cf6?style=flat-square" alt="Planned project" />
+</td>
+</tr>
+</table>
+
+## 04 — Tech I work with
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, WordPress, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,wordpress,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Python, WordPress, Git, GitHub, VS Code" />
 
 <br/>
 
@@ -103,16 +153,17 @@ Focused on building practical projects, improving problem-solving, and learning 
 
 </div>
 
-## 04 — Current focus
+## 05 — Current focus
 
 | Area | Focus |
 |---|---|
 | JavaScript | Fundamentals, DOM, events, and problem-solving |
+| Python | Syntax, data types, conditions, loops, and core programming |
 | Frontend | Responsive interfaces and clean UI implementation |
 | Git & GitHub | Version control and collaborative workflows |
 | Next step | React and modern frontend development |
 
-## 05 — GitHub activity
+## 06 — GitHub activity
 
 <div align="center">
 
