@@ -198,6 +198,7 @@ Building practical applications to improve my skills in frontend development, pr
 I'm always interested in learning, collaborating and creating useful things for the web.
 
 <a href="https://www.linkedin.com/in/rajyavardhansinghrajpurohit"><img src="https://img.shields.io/badge/LET'S_CONNECT-B9F36A?style=for-the-badge&logo=linkedin&logoColor=171717" alt="Connect on LinkedIn" /></a>
+<a href="https://www.instagram.com/klompa.fbx/"><img src="https://img.shields.io/badge/FOLLOW_ON_INSTAGRAM-171717?style=for-the-badge&logo=instagram&logoColor=B9F36A" alt="Instagram" /></a>
 <a href="https://github.com/rajyavardhan-dev"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-171717?style=for-the-badge&logo=github&logoColor=F5F3ED" alt="Follow on GitHub" /></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:292929,50:171717,100:101010&height=100&section=footer" alt="" />
