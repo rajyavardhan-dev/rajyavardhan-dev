@@ -151,12 +151,18 @@ Building practical applications to improve my skills in frontend development, pr
 
 ## THE TOOLKIT
 
-**Core:** HTML · CSS · JavaScript · Python
+<div align="center">
 
-**Development tools:** Git · GitHub · VS Code
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,wordpress&theme=dark" alt="HTML, CSS, JavaScript, Python, Git, GitHub, VS Code and WordPress" />
 
-**Platforms & technologies:** WordPress · Shopify · Liquid · WooCommerce · Elementor
+<br/><br/>
 
+<img src="https://img.shields.io/badge/SHOPIFY-171717?style=for-the-badge&logo=shopify&logoColor=B9F36A" alt="Shopify" />
+<img src="https://img.shields.io/badge/LIQUID-171717?style=for-the-badge&logo=shopify&logoColor=B9F36A" alt="Liquid" />
+<img src="https://img.shields.io/badge/WOOCOMMERCE-171717?style=for-the-badge&logo=woocommerce&logoColor=B9F36A" alt="WooCommerce" />
+<img src="https://img.shields.io/badge/ELEMENTOR-171717?style=for-the-badge&logo=elementor&logoColor=B9F36A" alt="Elementor" />
+
+</div>
 ---
 
 ## CURRENTLY IN THE WORKSHOP
@@ -173,8 +179,14 @@ Building practical applications to improve my skills in frontend development, pr
 
 ## THE GITHUB LOG
 
-I use GitHub to track my progress, practise version control and share what I'm building. You can find my latest repositories and contribution activity directly on my GitHub profile.
+<div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajyavardhan-dev&show_icons=true&hide_border=true&bg_color=101010&title_color=B9F36A&icon_color=B9F36A&text_color=F5F3ED&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajyavardhan-dev&layout=compact&hide_border=true&bg_color=101010&title_color=B9F36A&text_color=F5F3ED" alt="Most used languages" />
+
+<img width="90%" src="https://streak-stats.demolab.com/?user=rajyavardhan-dev&hide_border=true&background=101010&ring=B9F36A&fire=B9F36A&currStreakLabel=B9F36A&sideLabels=AAA69D&currStreakNum=F5F3ED&sideNums=F5F3ED&dates=AAA69D" alt="GitHub contribution streak" />
+
+</div>
 ---
 
 <div align="center">
